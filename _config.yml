@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Han KyeongDong ( Joel )"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "test"
+  bio              : "Mobile Programming Developer"
   location         : "Seoul, Korea"
-  email            : "joel@youfriend.kr"
+  # email            : "joel@youfriend.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
